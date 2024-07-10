@@ -1,0 +1,106 @@
+body{
+    
+    background-image: linear-gradient(45deg,#07363C ,#E4C19D);
+    /*background-color: burlywood;*/
+    font-family: Arial;
+    
+}
+
+a{
+    text-decoration: none;
+    color: #E4C19D;
+}
+
+.Inicio{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    border-radius: 30px;
+    background-color: #07363C;
+    color: wheat;
+    text-decoration: none;
+}
+
+.intro{
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+    align-items: center;
+    width: 95%;
+    height: 80vh;
+}
+
+.inicio_txt{
+    color: #07363C;
+    margin: 20px;
+    width: 800px;
+    height: 300px;
+    text-align: center;
+    background-color: #E4C19D;
+    border-radius: 10px;
+}
+
+
+.inicio_img img{
+    border-radius: 20px;
+}
+
+.linguagens{
+    margin: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.meio{
+    color:#E4C19D ;
+    margin: 50px;
+    text-align: center;
+    width: 95%;
+    height: 35vh;
+    background-color:#07363C ;
+    border-radius: 10px;
+    justify-content: space-between;  
+}
+
+
+.fim{
+    color:#E4C19D;
+    display: flex;
+    justify-content: space-around
+}
+
+/*------ Pagina 2 --------*/
+
+.inicio_pag2{
+    display: flex;
+    
+}
+
+.contabilidade img{
+    display: flex;
+    width: 400px;
+    border-radius: 20px;
+    margin: 20px;
+}
+
+.blocobranco{
+    display: flex;
+    width: 200px;
+    height: 200px;
+}
+
+.inicio_txt2{
+    color: #07363C;
+    margin: 20px;
+    background-color: #E4C19D;
+    border-radius: 10px;
+    text-align: center;
+    width: 95%;
+    height: 40vh;
+}
+
+.fim2{
+    color:#E4C19D;
+    display: flex;
+    justify-content: space-around
+}
