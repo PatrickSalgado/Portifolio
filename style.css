@@ -55,13 +55,11 @@ a{
     color:#E4C19D ;
     margin: 50px;
     text-align: center;
-    width: 1220px;
-    height: 300px;
+    width: 95%;
+    height: 35vh;
     background-color:#07363C ;
     border-radius: 10px;
-    justify-content: space-between;
-    
-    
+    justify-content: space-between;  
 }
 
 
@@ -79,9 +77,16 @@ a{
 }
 
 .contabilidade img{
+    display: flex;
     width: 400px;
     border-radius: 20px;
     margin: 20px;
+}
+
+.blocobranco{
+    display: flex;
+    width: 200px;
+    height: 200px;
 }
 
 .inicio_txt2{
@@ -90,8 +95,8 @@ a{
     background-color: #E4C19D;
     border-radius: 10px;
     text-align: center;
-    width: 800px;
-    height: 400px;
+    width: 95%;
+    height: 40vh;
 }
 
 .fim2{
